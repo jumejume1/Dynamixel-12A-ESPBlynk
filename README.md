@@ -8,6 +8,9 @@ Hardware
 4. power supply dc 12V
 5. mobile phone with Blynk app
 
+Arduino library to control Dynamixel AX-12A 
+https://github.com/ThingType/AX-12A-servo-library
+
 Schematic diagram <br>
 
 ![Maker Tutor](https://3.bp.blogspot.com/-mbSZmAqlzDk/WmytjGZw4RI/AAAAAAAA_-0/87q1oDEIK5I2KMGGqhWqf9mYE3YjqcnpwCPcBGAYYCw/s320/ax12pinout.png)
