@@ -9,7 +9,7 @@ Hardware
 5. mobile phone with Blynk app
 
 Arduino library to control Dynamixel AX-12A <br>
-https://github.com/ThingType/AX-12A-servo-library
+https://github.com/jumejume1/AX-12A-servo-library
 
 Schematic diagram <br>
 
