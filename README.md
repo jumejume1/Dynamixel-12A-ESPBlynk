@@ -9,4 +9,8 @@ Hardware
 5. mobile phone with Blynk app
 
 Schematic diagram <br>
+
 ![Maker Tutor](https://3.bp.blogspot.com/-mbSZmAqlzDk/WmytjGZw4RI/AAAAAAAA_-0/87q1oDEIK5I2KMGGqhWqf9mYE3YjqcnpwCPcBGAYYCw/s320/ax12pinout.png)
+
+<br>
+![Maker Tutor](https://3.bp.blogspot.com/-86dE-3eEZts/W8l87mROgdI/AAAAAAABL2w/DOfHjRoYPfc5w5kD6u_NKDtrcx6MEK91wCPcBGAYYCw/s640/Screen%2BShot%2B2561-10-19%2Bat%2B13.40.48.png)
