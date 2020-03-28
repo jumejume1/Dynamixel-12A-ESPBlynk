@@ -8,5 +8,5 @@ Hardware
 4. power supply dc 12V
 5. mobile phone with Blynk app
 
-Schematic diagram
+Schematic diagram <br>
 ![Maker Tutor](https://3.bp.blogspot.com/-mbSZmAqlzDk/WmytjGZw4RI/AAAAAAAA_-0/87q1oDEIK5I2KMGGqhWqf9mYE3YjqcnpwCPcBGAYYCw/s320/ax12pinout.png)
